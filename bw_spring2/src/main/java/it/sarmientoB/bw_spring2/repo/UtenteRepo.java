@@ -14,5 +14,4 @@ public interface UtenteRepo extends CrudRepository<Utente, Long>, PagingAndSorti
 	
 	public boolean existsByEmail(String email);
 	
-	
 }

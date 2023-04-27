@@ -1,8 +1,6 @@
 package it.sarmientoB.bw_spring2.model;
 
-import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 import it.sarmientoB.bw_spring2.enums.TipoDispositivo;
 import it.sarmientoB.bw_spring2.enums.StatoDispositivi;
